@@ -34,4 +34,3 @@ elif operacion =="DIVISION":
 
      print (f"el resultado de la division es :{resultado}")
      
-
